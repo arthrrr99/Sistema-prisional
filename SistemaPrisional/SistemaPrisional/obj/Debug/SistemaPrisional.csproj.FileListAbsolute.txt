@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\SistemaPrisional\SistemaPrisional\bin\Debug\SistemaPrisional.exe.config
+C:\Users\PC\source\repos\SistemaPrisional\SistemaPrisional\bin\Debug\SistemaPrisional.exe
+C:\Users\PC\source\repos\SistemaPrisional\SistemaPrisional\bin\Debug\SistemaPrisional.pdb
+C:\Users\PC\source\repos\SistemaPrisional\SistemaPrisional\obj\Debug\SistemaPrisional.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\SistemaPrisional\SistemaPrisional\obj\Debug\SistemaPrisional.Adicionar.resources
+C:\Users\PC\source\repos\SistemaPrisional\SistemaPrisional\obj\Debug\SistemaPrisional.Form1.resources
+C:\Users\PC\source\repos\SistemaPrisional\SistemaPrisional\obj\Debug\SistemaPrisional.Properties.Resources.resources
+C:\Users\PC\source\repos\SistemaPrisional\SistemaPrisional\obj\Debug\SistemaPrisional.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\SistemaPrisional\SistemaPrisional\obj\Debug\SistemaPrisional.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SistemaPrisional\SistemaPrisional\obj\Debug\SistemaPrisional.exe
+C:\Users\PC\source\repos\SistemaPrisional\SistemaPrisional\obj\Debug\SistemaPrisional.pdb
